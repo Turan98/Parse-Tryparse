@@ -1,0 +1,15 @@
+D:\CSharp\Console\TestParse_TryParse\bin\Debug\net6.0\TestParse_TryParse.exe
+D:\CSharp\Console\TestParse_TryParse\bin\Debug\net6.0\TestParse_TryParse.deps.json
+D:\CSharp\Console\TestParse_TryParse\bin\Debug\net6.0\TestParse_TryParse.runtimeconfig.json
+D:\CSharp\Console\TestParse_TryParse\bin\Debug\net6.0\TestParse_TryParse.dll
+D:\CSharp\Console\TestParse_TryParse\bin\Debug\net6.0\TestParse_TryParse.pdb
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\TestParse_TryParse.csproj.AssemblyReference.cache
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\TestParse_TryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\TestParse_TryParse.AssemblyInfoInputs.cache
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\TestParse_TryParse.AssemblyInfo.cs
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\TestParse_TryParse.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\TestParse_TryParse.dll
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\refint\TestParse_TryParse.dll
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\TestParse_TryParse.pdb
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\TestParse_TryParse.genruntimeconfig.cache
+D:\CSharp\Console\TestParse_TryParse\obj\Debug\net6.0\ref\TestParse_TryParse.dll
